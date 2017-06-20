@@ -1,0 +1,56 @@
+.brand-logo{
+  text-indent: 1em;
+}
+
+.headerOptions{
+  color: #aeea00;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+
+
+.mainContent {
+  display: flex;
+  flex-direction: row;
+  margin-left: 1em;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: 6em;
+}
+
+.header{
+  text-indent: 1em;
+}
+
+.weeklyDeals{
+  margin-top: 4em;
+}
+
+.favGuitars{
+  margin-right: 1em;
+}
+
+.row{
+  display: flex;
+  align-content: flex-end;
+  margin-right: 0em;
+  margin-top: 3.5em;
+}
+
+img{
+  height: inherit;
+  width:inherit;;
+}
